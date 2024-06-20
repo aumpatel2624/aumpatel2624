@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aum Patel</h1>
 <h3 align="center">A passionate cybersecurity student from India</h3>
 
+[![An image of @aumpatel2624's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aumpatel2624)](https://holopin.io/@aumpatel2624)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aumpatel2624" alt="aumpatel2624" /></a> </p>
 
 - 💬 Ask me about **Cybersecurity**
