@@ -1,67 +1,85 @@
-# Aum Patel · AI Engineer
+<div align="center">
 
-**Open to relocation (UK and Europe) · Requires visa sponsorship · Available immediately**
+<img src="assets/banner.svg" alt="Terminal window spelling AUM PATEL in ASCII block letters, then typing: AI agents + pipelines + backend" width="880">
 
-[Portfolio](https://aumpatel2624.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/aum-patel-945561222/) · [Email](mailto:aumpatelc36@gmail.com) · Vadodara, India
+**[Portfolio](https://aumpatel2624.github.io/portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/aum-patel-945561222/)** · **[Email](mailto:aumpatelc36@gmail.com)**
 
-I'm a software developer building full-stack products and AI agent tooling. At Apidel Technologies since January 2026, I work on internal business platforms in TypeScript and Node.js. I build AI pipelines using the Claude Agent SDK and Claude Code, with research, fact-check and human review stages. Looking for AI Engineer roles in the UK and Europe.
+`Open to relocation (UK and Europe)` · `Requires visa sponsorship` · `Available immediately`
 
-## AI engineering
+</div>
 
-### AI content generator · Vyaris
+## 👋 Hi, I'm Aum
 
-Claude Agent SDK pipelines for LinkedIn posts and blogs with 7 stages (topic ideation, research, drafting, fact-check, SEO, brand voice, compliance), automatic revision, human review and daily generation limits.
+I'm an AI engineer from Vadodara, India. I build AI agent pipelines with **research, fact-check and human review** stages. By day I'm a software developer at Apidel Technologies, and I co-founded Vyaris, a six-person software agency. Away from the editor you'll find me watching Formula 1, tinkering with hardware, and trying to turn reading into a habit.
 
-*Node.js, Express, React, MongoDB, Firecrawl · Built with Claude Code*
+<div align="center">
 
-### Podcast knowledge pipeline · Personal project
+<img src="assets/neofetch.svg" alt="ASCII portrait of Aum beside a profile card: AI Engineer in Vadodara, India. Software Developer at Apidel and co-founder of Vyaris. Stack: TypeScript, Node.js, React, MongoDB, PostgreSQL, SQLite. Focus: Claude agent pipelines. Tools: Claude Code, Codex, Antigravity. Lenovo LOQ laptop and ASUS ROG Strix home server. Likes Formula 1, books and running." width="880">
 
-58 episodes analysed. Across 49 in the knowledge base, 44,600+ extracted items each carry a transcript quote checked in code; a second-model pass fixed 7,100+ items and removed 1,100+.
+</div>
 
-*Python, yt-dlp, faster-whisper, SQLite full-text search, headless Claude Code · Built with Claude Code*
+## ⚙️ How I build
 
-### Multi-agent development pipeline for Claude Code · [claude-code-agents](https://github.com/aumpatel2624/claude-code-agents)
+I develop with Claude Code, Codex and Antigravity to cut the time from idea to finished product. This is the shape of the content pipeline I built at Vyaris:
 
-XML-driven pipeline of 9 specialised agents that analyse project context, turn a request into an XML specification and route it to backend or frontend work.
+```text
+ +----------+    +----------+    +-------+    +--------------+    +--------------+
+ | ideation |--->| research |--->| draft |--->|    checks    |--->| human review |---> ship
+ +----------+    +----------+    +-------+    |  fact-check  |    +--------------+
+                                     ^        |  SEO         |
+                                     |        |  brand voice |
+                                     |        |  compliance  |
+                                     |        +------+-------+
+                                     +--- revise ----+
+```
 
-### SEO keyword research tool
+## 🛠️ Things I've made
 
-Python command-line tool using the standard library, tested with pytest.
+- 🧩 **[claude-code-agents](https://github.com/aumpatel2624/claude-code-agents)**: 9 specialised Claude Code agents that turn a request into an XML spec and route it to backend or frontend work.
+- ✍️ **AI content generator** (Vyaris): a 7-stage Claude Agent SDK pipeline for LinkedIn posts and blogs.
+- 🎙️ **Podcast knowledge pipeline**: 58 episodes analysed, with transcript quotes checked in code.
+- ♻️ **SmartBin**: a waste-sorting prototype where a TensorFlow model tells an Arduino how to sort.
 
-## Experience
+## 🧭 Off the clock
 
-**Software Developer · Apidel Technologies**, Vadodara · Jan 2026 – Present
+```text
+~/aum/hobbies
+├── f1/        team: Red Bull · driver: Max Verstappen
+│              best race watched: 2016 Brazil Grand Prix
+├── books/     now: Read People Like a Book, Psycho-Cybernetics
+├── running/   just started
+├── esports/   Valorant tournaments, and lately some football
+├── iot/       Arduino + camera module; college project ran ML on board
+└── ai/        use cases beyond coding
+```
 
-- Main developer of the task management platform, support ticketing backend and a single sign-on service connecting 6 internal applications.
-- Built an 11-module in-house HR management system in under 3 weeks, on an internal starter, as its only human committer, using AI coding agents (Claude Code).
-- Resolved 151 defects across 6 products and completed 4 security and access-control reviews.
+## 🏠 Homelab
 
-**Co-founder (self-employed) · Vyaris**, software agency, Vadodara · Jul 2026 – Present
+```text
+ +----------------+   private    +---------------------+   ethernet   +----------------+
+ |  Lenovo LOQ    |   network    |  ROG Strix server   |              | Raspberry Pi 2 |
+ |  Windows + WSL |<============>|  Ubuntu Server 24/7 |<------------>| network helper |
+ +----------------+              |  Docker, KVM/QEMU   |              +----------------+
+                                 +---------------------+               next: Wake-on-LAN
+```
 
-- Co-founded a six-person, bootstrapped agency offering web, mobile, e-commerce, ERP, CRM and AI automation services.
-- Developed and tuned the company website: page performance, responsive images and AI crawler support.
+## 🌍 I speak
 
-## Technical skills
+**English** (fluent) · **हिन्दी** Hindi (fluent) · **ગુજરાતી** Gujarati (native) · **Deutsch** German (intermediate) · **日本語** Japanese (basic)
 
-- **Programming:** TypeScript and JavaScript (strong); Java, Python, SQL (working knowledge)
-- **AI and agents:** Claude Agent SDK, Claude Code, multi-stage content pipelines with fact-check and human review
-- **Backend:** Node.js, Bun, Express, Spring Boot, Socket.IO, REST APIs, Swagger, Zod
-- **Frontend:** React, Vite, Tailwind CSS
-- **Databases:** MongoDB, PostgreSQL, SQLite
-- **Queues and cache:** Redis, RabbitMQ, BullMQ
-- **Cloud and storage:** AWS (S3), Garage
-- **DevOps:** Git, GitLab CI/CD, GitHub Actions, Docker, PM2, Nginx
-- **Security:** JWT authentication, role-based access control, Helmet
+---
 
-## Education
+<div align="center">
 
-**BTech, Computer Science and Technology (Cybersecurity and Cloud Computing)** · 2021 – 2025<br>
-Amity University Mumbai, India · CGPA 8.45/10
+```text
+                   __
+    __            /o \___
+   |  |__________/  ___  \_________
+   |__|   ___                ___   \______
+      \__/ O \______________/ O \_________>
+         \___/              \___/
+```
 
-## Award
+*Lights out and away we go.* **[Let's talk](mailto:aumpatelc36@gmail.com)** 🏁
 
-Runner-up, NIRMAN Hackathon (2023)
-
-## Languages
-
-English (fluent) · Hindi (fluent) · Gujarati (native) · German (intermediate) · Japanese (basic)
+</div>
