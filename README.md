@@ -1,19 +1,67 @@
-<h1 align="center">Hi 👋, I'm Aum Patel</h1>
-<h3 align="center">A passionate cybersecurity student from India</h3>
+# Aum Patel · AI Engineer
 
-[![An image of @aumpatel2624's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aumpatel2624)](https://holopin.io/@aumpatel2624)
+**Open to relocation (UK and Europe) · Requires visa sponsorship · Available immediately**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aumpatel2624" alt="aumpatel2624" /></a> </p>
+[Portfolio](https://aumpatel2624.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/aum-patel-945561222/) · [Email](mailto:aumpatelc36@gmail.com) · Vadodara, India
 
-- 💬 Ask me about **Cybersecurity**
+I'm a software developer building full-stack products and AI agent tooling. At Apidel Technologies since January 2026, I work on internal business platforms in TypeScript and Node.js. I build AI pipelines using the Claude Agent SDK and Claude Code, with research, fact-check and human review stages. Looking for AI Engineer roles in the UK and Europe.
 
-- 📫 How to reach me **aumpatelc36@gmail.com**
+## AI engineering
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### AI content generator · Vyaris
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Claude Agent SDK pipelines for LinkedIn posts and blogs with 7 stages (topic ideation, research, drafting, fact-check, SEO, brand voice, compliance), automatic revision, human review and daily generation limits.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aumpatel2624&show_icons=true&locale=en" alt="aumpatel2624" /></p>
+*Node.js, Express, React, MongoDB, Firecrawl · Built with Claude Code*
+
+### Podcast knowledge pipeline · Personal project
+
+58 episodes analysed. Across 49 in the knowledge base, 44,600+ extracted items each carry a transcript quote checked in code; a second-model pass fixed 7,100+ items and removed 1,100+.
+
+*Python, yt-dlp, faster-whisper, SQLite full-text search, headless Claude Code · Built with Claude Code*
+
+### Multi-agent development pipeline for Claude Code · [claude-code-agents](https://github.com/aumpatel2624/claude-code-agents)
+
+XML-driven pipeline of 9 specialised agents that analyse project context, turn a request into an XML specification and route it to backend or frontend work.
+
+### SEO keyword research tool
+
+Python command-line tool using the standard library, tested with pytest.
+
+## Experience
+
+**Software Developer · Apidel Technologies**, Vadodara · Jan 2026 – Present
+
+- Main developer of the task management platform, support ticketing backend and a single sign-on service connecting 6 internal applications.
+- Built an 11-module in-house HR management system in under 3 weeks, on an internal starter, as its only human committer, using AI coding agents (Claude Code).
+- Resolved 151 defects across 6 products and completed 4 security and access-control reviews.
+
+**Co-founder (self-employed) · Vyaris**, software agency, Vadodara · Jul 2026 – Present
+
+- Co-founded a six-person, bootstrapped agency offering web, mobile, e-commerce, ERP, CRM and AI automation services.
+- Developed and tuned the company website: page performance, responsive images and AI crawler support.
+
+## Technical skills
+
+- **Programming:** TypeScript and JavaScript (strong); Java, Python, SQL (working knowledge)
+- **AI and agents:** Claude Agent SDK, Claude Code, multi-stage content pipelines with fact-check and human review
+- **Backend:** Node.js, Bun, Express, Spring Boot, Socket.IO, REST APIs, Swagger, Zod
+- **Frontend:** React, Vite, Tailwind CSS
+- **Databases:** MongoDB, PostgreSQL, SQLite
+- **Queues and cache:** Redis, RabbitMQ, BullMQ
+- **Cloud and storage:** AWS (S3), Garage
+- **DevOps:** Git, GitLab CI/CD, GitHub Actions, Docker, PM2, Nginx
+- **Security:** JWT authentication, role-based access control, Helmet
+
+## Education
+
+**BTech, Computer Science and Technology (Cybersecurity and Cloud Computing)** · 2021 – 2025<br>
+Amity University Mumbai, India · CGPA 8.45/10
+
+## Award
+
+Runner-up, NIRMAN Hackathon (2023)
+
+## Languages
+
+English (fluent) · Hindi (fluent) · Gujarati (native) · German (intermediate) · Japanese (basic)
